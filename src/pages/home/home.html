@@ -1,14 +1,21 @@
 <ion-header>
   <ion-navbar>
     <ion-title>
-      Ionic Blank
+      FoCa: Food on Campus
     </ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+<ion-content>
+  <ion-card (click)="cardClick(menu)" *ngFor="let menu of menusDone">
+    <ion-card-header>{{menu.name}}</ion-card-header>
+    <ion-card-content>{{menu.meal}}</ion-card-content>
+    <ion-card-content>{{menu.date}}</ion-card-content>
+  </ion-card>
+
+  <ion-fab right bottom>
+    <button ion-fab color="primary" (click)="refreshList()">
+      <ion-icon name="md-refresh"></ion-icon>
+    </button>
+  </ion-fab>
 </ion-content>

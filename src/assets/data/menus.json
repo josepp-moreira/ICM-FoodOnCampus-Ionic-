@@ -1,0 +1,468 @@
+{
+  "attributes": {
+    "request": "/sas/ementas",
+    "request_timestamp": "1514053606"
+  },
+  "menus": {
+    "attributes": {
+      "zone": "santiago",
+      "type": "week"
+    },
+    "menu": [
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Almoço",
+          "date": "Sat, 23 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Aberto"
+        },
+        "items": {
+          "sopa": "Sopa de feijões",
+          "pratoCarne": "Perna de peru no forno",
+          "pratoPeixe": "Pescada dourada com limão",
+          "entrada": "Buffet de entradas variadas",
+          "salada": "Buffet de saladas variadas",
+          "sobremesa": "Buffet de sobremesas variadas"
+        }
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Jantar",
+          "date": "Sat, 23 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Aberto"
+        },
+        "items": {
+          "sopa": "Sopa de legumes",
+          "pratoCarne": "Massa a bolanhesa",
+          "pratoPeixe": "Salmão grelhado com batata cozida",
+          "entrada": "Buffet de entradas variadas",
+          "salada": "Buffet de saladas variadas",
+          "sobremesa": "Buffet de sobremesas variadas"
+        }
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Almoço",
+          "date": "Sat, 23 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Jantar",
+          "date": "Sat, 23 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Snack-Bar/Self",
+          "meal": "Almoço",
+          "date": "Sat, 23 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Almoço",
+          "date": "Sun, 24 Dec 2017 00:00:00 +0000",
+          "weekday": "Sunday",
+          "weekdayNr": "0",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Jantar",
+          "date": "Sun, 24 Dec 2017 00:00:00 +0000",
+          "weekday": "Sunday",
+          "weekdayNr": "0",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Almoço",
+          "date": "Sun, 24 Dec 2017 00:00:00 +0000",
+          "weekday": "Sunday",
+          "weekdayNr": "0",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Jantar",
+          "date": "Sun, 24 Dec 2017 00:00:00 +0000",
+          "weekday": "Sunday",
+          "weekdayNr": "0",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Snack-Bar/Self",
+          "meal": "Almoço",
+          "date": "Sun, 24 Dec 2017 00:00:00 +0000",
+          "weekday": "Sunday",
+          "weekdayNr": "0",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Almoço",
+          "date": "Mon, 25 Dec 2017 00:00:00 +0000",
+          "weekday": "Monday",
+          "weekdayNr": "1",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Jantar",
+          "date": "Mon, 25 Dec 2017 00:00:00 +0000",
+          "weekday": "Monday",
+          "weekdayNr": "1",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Almoço",
+          "date": "Mon, 25 Dec 2017 00:00:00 +0000",
+          "weekday": "Monday",
+          "weekdayNr": "1",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Jantar",
+          "date": "Mon, 25 Dec 2017 00:00:00 +0000",
+          "weekday": "Monday",
+          "weekdayNr": "1",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Snack-Bar/Self",
+          "meal": "Almoço",
+          "date": "Mon, 25 Dec 2017 00:00:00 +0000",
+          "weekday": "Monday",
+          "weekdayNr": "1",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Almoço",
+          "date": "Tue, 26 Dec 2017 00:00:00 +0000",
+          "weekday": "Tuesday",
+          "weekdayNr": "2",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Jantar",
+          "date": "Tue, 26 Dec 2017 00:00:00 +0000",
+          "weekday": "Tuesday",
+          "weekdayNr": "2",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Almoço",
+          "date": "Tue, 26 Dec 2017 00:00:00 +0000",
+          "weekday": "Tuesday",
+          "weekdayNr": "2",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Jantar",
+          "date": "Tue, 26 Dec 2017 00:00:00 +0000",
+          "weekday": "Tuesday",
+          "weekdayNr": "2",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Snack-Bar/Self",
+          "meal": "Almoço",
+          "date": "Tue, 26 Dec 2017 00:00:00 +0000",
+          "weekday": "Tuesday",
+          "weekdayNr": "2",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Almoço",
+          "date": "Wed, 27 Dec 2017 00:00:00 +0000",
+          "weekday": "Wednesday",
+          "weekdayNr": "3",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Jantar",
+          "date": "Wed, 27 Dec 2017 00:00:00 +0000",
+          "weekday": "Wednesday",
+          "weekdayNr": "3",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Almoço",
+          "date": "Wed, 27 Dec 2017 00:00:00 +0000",
+          "weekday": "Wednesday",
+          "weekdayNr": "3",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Jantar",
+          "date": "Wed, 27 Dec 2017 00:00:00 +0000",
+          "weekday": "Wednesday",
+          "weekdayNr": "3",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Snack-Bar/Self",
+          "meal": "Almoço",
+          "date": "Wed, 27 Dec 2017 00:00:00 +0000",
+          "weekday": "Wednesday",
+          "weekdayNr": "3",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Almoço",
+          "date": "Thu, 28 Dec 2017 00:00:00 +0000",
+          "weekday": "Thursday",
+          "weekdayNr": "4",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Jantar",
+          "date": "Thu, 28 Dec 2017 00:00:00 +0000",
+          "weekday": "Thursday",
+          "weekdayNr": "4",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Almoço",
+          "date": "Thu, 28 Dec 2017 00:00:00 +0000",
+          "weekday": "Thursday",
+          "weekdayNr": "4",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Jantar",
+          "date": "Thu, 28 Dec 2017 00:00:00 +0000",
+          "weekday": "Thursday",
+          "weekdayNr": "4",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Snack-Bar/Self",
+          "meal": "Almoço",
+          "date": "Thu, 28 Dec 2017 00:00:00 +0000",
+          "weekday": "Thursday",
+          "weekdayNr": "4",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Almoço",
+          "date": "Fri, 29 Dec 2017 00:00:00 +0000",
+          "weekday": "Friday",
+          "weekdayNr": "5",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Jantar",
+          "date": "Fri, 29 Dec 2017 00:00:00 +0000",
+          "weekday": "Friday",
+          "weekdayNr": "5",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Almoço",
+          "date": "Fri, 29 Dec 2017 00:00:00 +0000",
+          "weekday": "Friday",
+          "weekdayNr": "5",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Jantar",
+          "date": "Fri, 29 Dec 2017 00:00:00 +0000",
+          "weekday": "Friday",
+          "weekdayNr": "5",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Snack-Bar/Self",
+          "meal": "Almoço",
+          "date": "Fri, 29 Dec 2017 00:00:00 +0000",
+          "weekday": "Friday",
+          "weekdayNr": "5",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Almoço",
+          "date": "Sat, 30 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório de Santiago",
+          "meal": "Jantar",
+          "date": "Sat, 30 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Almoço",
+          "date": "Sat, 30 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Refeitório do Crasto",
+          "meal": "Jantar",
+          "date": "Sat, 30 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      },
+      {
+        "attributes": {
+          "canteen": "Snack-Bar/Self",
+          "meal": "Almoço",
+          "date": "Sat, 30 Dec 2017 00:00:00 +0000",
+          "weekday": "Saturday",
+          "weekdayNr": "6",
+          "disabled": "Encerrado - não há fornecimento de refeições"
+        },
+        "items": {}
+      }
+    ]
+  }
+}
